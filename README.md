@@ -262,8 +262,4 @@ The corner overlay is on by default. If you've switched it off, go to **Status i
 
 Written by [Claude](https://claude.ai) in collaboration with a non-developer user. No human developer has reviewed the code independently. Provided as-is, without warranty. Back up your data before use.
 
-<<<<<<< HEAD
 If you hit a bug, check the KOReader log file (`koreader.log` or `crash.log` in your KOReader directory) for lines starting with `ClaudeSync:` — those will tell you exactly what went wrong.
-=======
-If you hit a bug, check the KOReader log file (`koreader.log` or `crash.log` in your KOReader directory) for lines starting with `ClaudeSync:` — those will tell you exactly what went wrong.
->>>>>>> 431fd385119231f20be84f10ec6a92393ad57fde
