@@ -26,6 +26,28 @@ Finish a chapter on your Kobo before bed → pick up your tablet the next mornin
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/claudesync01.png" width="260"/></td>
+    <td><img src="screenshots/claudesync02.png" width="260"/></td>
+    <td><img src="screenshots/claudesync03.png" width="260"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/claudesync04.png" width="260"/></td>
+    <td><img src="screenshots/claudesync05.png" width="260"/></td>
+    <td><img src="screenshots/claudesync06.png" width="260"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/claudesync07.png" width="260"/></td>
+    <td><img src="screenshots/claudesync08.png" width="260"/></td>
+    <td><img src="screenshots/claudesync09.png" width="260"/></td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Choosing a Service
 
 ClaudeSync uses **WebDAV** — a standard protocol supported by a wide range of cloud storage services. Setup requires only a server address, username, and password. No developer apps, no OAuth tokens.
